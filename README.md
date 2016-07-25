@@ -25,4 +25,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-http://legenddolphin.wordpress.com/2012/05/07/simarch-a-multi-agent-system-for-human-path-simulation-in-architecture-design/
+https://yenchiah.wordpress.com/2016/05/11/simarch-a-multi-agent-system-for-human-path-simulation-in-architecture-design/
