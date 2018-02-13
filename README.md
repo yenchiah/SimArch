@@ -4,7 +4,7 @@ SimArch
 This is a free software project.
 Copyright (C) 2012 by Yen-Chia Hsu, Carnegie Mellon University, U.S.A.
 
-E-mail: legenddolphin@gmail.com
+E-mail: hsu.yenchia@gmail.com
  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
